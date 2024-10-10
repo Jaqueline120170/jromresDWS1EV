@@ -1,0 +1,20 @@
+10-10-2024Acceso menu principal
+10-10-20241  Acceso a menu empleados
+10-10-2024 Seleccion: Agregar compra cliente
+10-10-2024Acceso menu principal
+10-10-20242  Acceso a menu Gerencia
+10-10-2024Seleccion: Dar alta un cliente
+10-10-2024Alta cliente exito
+10-10-2024Acceso menu principal
+10-10-20241  Acceso a menu empleados
+10-10-2024 Seleccion: Agregar compra cliente
+10-10-2024compra cliente exito
+10-10-2024Acceso menu principal
+10-10-20242  Acceso a menu Gerencia
+10-10-2024Seleccion: Dar alta un cliente
+10-10-2024Alta cliente exito
+10-10-2024Acceso menu principal
+10-10-20241  Acceso a menu empleados
+10-10-2024Seleccion: calculo de ventas total
+10-10-2024Acceso menu principal
+10-10-20240  Acceso a menu principal
